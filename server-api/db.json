@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "adfa",
+      "description": "dsafda",
+      "id": 1
+    },
+    {
+      "title": "title 2",
+      "description": "descr2",
+      "id": 2
+    },
+    {
+      "title": "title2",
+      "description": "1234dghjhoihnoj",
+      "id": 6
+    },
+    {
+      "title": "this.props.match.params.id",
+      "description": "this.props.match.params.id",
+      "userId": "109862713619225755210",
+      "id": 7
+    },
+    {
+      "title": "new new",
+      "description": "new new new",
+      "userId": "109862713619225755210",
+      "id": 8
+    },
+    {
+      "title": "new new new !!!",
+      "description": "hello world",
+      "userId": "109862713619225755210",
+      "id": 9
+    }
+  ]
+}
